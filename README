@@ -5,27 +5,19 @@ DA RULES:
   B. A build is defined as:
     a. Everything that wasn't there before and now serves a "stand-alone" function.
     b. If the documentation is properly followed, the build can be replicated.
-    c. Is open source and/or open hardware, if not, the service should be open to other
-       people to use.
+    c. Is open source and/or open hardware, if not, the service should be open to other people to use.
 2. Build limited time: 2 hrs a day.
   A. Limited time includes writing code, physical building.
   B. Limited time does not include: research, material, testing and simple repairs.
 3. Documentation.
   A. Documentation time: 30 minutes a day.
-    a. This is loosely enforced because documentation usually is more inportant
-       than the build itself.
-    b. Twitter publications and YouTube publications DOES NOT COUNT as documentation.
-       They only do when it is the only documentation piece of the project.
-  B. Documentation has to be written in English, if it is documented on another language
-     it may count as a complement of another document written in English.
+    a. This is loosely enforced because documentation usually is more inportant than the build itself.
+    b. Twitter publications and YouTube publications DOES NOT COUNT as documentation. They only do when it is the only documentation piece of the project.
+  B. Documentation has to be written in English, if it is documented on another language it may count as a complement of another document written in English.
 4. Progressive Builds.
   A. One build can be one small part of a bigger build or the integration of such builds.
 5. Open Source.
-  B. All builds should be open sourced in the proper media. Code and some other scripts
-     (like Eagle libraries) should be published in Github or Bitbucket and instructions
-     in blog posts.
+  B. All builds should be open sourced in the proper media. Code and some other scripts (like Eagle libraries) should be published in Github or Bitbucket and instructions in blog posts.
 6. Joint builds
-  A. Joint builds can be discussed, repaired, debugged or edited if the parties involved
-     are available.
-  B. If all the parties involved have exeeded the 2 hrs a day mark, then everyone shoud
-     stop working until the next day. Note: 24 hrs accountability is not enforced.
+  A. Joint builds can be discussed, repaired, debugged or edited if the parties involved are available.
+  B. If all the parties involved have exeeded the 2 hrs a day mark, then everyone shoud stop working until the next day. Note: 24 hrs accountability is not enforced.
